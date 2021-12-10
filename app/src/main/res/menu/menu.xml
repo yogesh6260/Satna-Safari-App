@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item android:id="@+id/item1"
+            android:title="City Guide"
+            android:icon="@drawable/ic_baseline_add_location_24"
+            app:showAsAction="always"/>
+
+        <item android:id="@+id/item2"
+            android:title="Add Note"
+            android:icon="@drawable/ic_baseline_note_add_24"
+            app:showAsAction="always"/>
+
+        <item android:id="@+id/item3"
+            android:title="Satna Map"
+            android:icon="@drawable/ic_baseline_map_24"
+            app:showAsAction="always"/>
+
+        <item android:id="@+id/item4"
+            android:title="Logout"
+            android:icon="@drawable/ic_baseline_login_24"
+            app:showAsAction="always"/>
+
+</menu>

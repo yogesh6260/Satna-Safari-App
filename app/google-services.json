@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953254290772",
+    "project_id": "satna-safari-app-9ce13",
+    "storage_bucket": "satna-safari-app-9ce13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953254290772:android:610faf623df07bf48714c1",
+        "android_client_info": {
+          "package_name": "com.example.satnasafari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953254290772-p9hj487ds5s84m7gcr4vfmcadid0190r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWolBPjZpwwks5Spn0QipjR-M8GnSP3g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953254290772-p9hj487ds5s84m7gcr4vfmcadid0190r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

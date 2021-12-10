@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/drawable/button_rounded.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/layout-w1240dp/activity_user_login.xml" value="0.13119143239625167" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/layout-w936dp/activity_user_login.xml" value="0.153125" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/layout/activity_hospital.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/layout/activity_hotel.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/layout/activity_mall.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/layout/activity_map_acitvity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/layout/activity_note_editor.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/layout/activity_user_login.xml" value="0.22" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/layout/activity_user_register.xml" value="0.22" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/YOGESH TIWARI/AndroidStudioProjects/SatnaSafari/app/src/main/res/menu/menu_note.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

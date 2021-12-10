@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.satnasafari" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SatnaSafari" >
+        <activity
+            android:name=".User_login"
+            android:exported="false" />
+        <activity android:name=".MapActivity" />
+        <activity android:name=".NoteEditorActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".mall" />
+        <activity android:name=".hospital" />
+        <activity android:name=".hotel" />
+        <activity android:name=".restaurant" />
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".home" />
+        <activity android:name=".User_register" />
+        <activity android:name=".Splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
